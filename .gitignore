@@ -110,7 +110,7 @@ src/.hypothesis/
 .kiro/
 
 # Qoder IDE
-.qoder/
+#.qoder/
 
 # Worktrees
 .worktrees/
